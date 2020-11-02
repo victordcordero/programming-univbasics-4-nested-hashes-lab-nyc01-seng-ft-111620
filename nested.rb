@@ -37,7 +37,7 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
-    "object Orientation"
+    puts alan_kay[:known_for]
 
 end
 
