@@ -110,7 +110,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-    programmer_hash[:alan_kay] = "GUI"
+    programmer_hash[:alan_kay][:known] = "GUI"
 end
 
 def adding_to_dennis
