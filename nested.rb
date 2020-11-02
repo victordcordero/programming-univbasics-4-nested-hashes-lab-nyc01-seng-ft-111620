@@ -111,6 +111,7 @@ def changing_alan
       }
     }
     programmer_hash[:alan_kay][:known] = "GUI"
+
 end
 
 def adding_to_dennis
